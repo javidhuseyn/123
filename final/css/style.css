@@ -1,0 +1,158 @@
+* {
+  font-family: Montserrat, Arial, Helvetica, sans-serif; }
+
+.mainSlider {
+  position: relative; }
+  .mainSlider .slider {
+    background-image: url(../photo1/usa.jpg);
+    height: 730px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white; }
+    .mainSlider .slider .slideMiddle {
+      padding: 18rem 0; }
+    .mainSlider .slider .slbtn1 {
+      padding: 10px 19px;
+      border-radius: 0;
+      background: #8dc645;
+      color: white;
+      font-size: .75em; }
+    .mainSlider .slider .slbtn2 {
+      padding: 10px 19px;
+      border-radius: 0;
+      background: #1976bc;
+      color: white;
+      font-size: .75em; }
+    .mainSlider .slider .bb-headLine::after {
+      content: ' ';
+      display: block;
+      width: 4em;
+      margin: 13px 33em -1.6em;
+      border-style: solid;
+      border-width: 2px 0 0; }
+  .mainSlider .spanTitle {
+    font-size: 0.5em; }
+
+#searchPart {
+  margin-top: -5.75em;
+  position: relative; }
+  #searchPart .searchCenter {
+    text-align: center;
+    color: white;
+    margin-left: 42%;
+    font-size: 1.3em;
+    font-weight: 800;
+    letter-spacing: -.05em; }
+
+.btnLeft, .btnRight {
+  font-size: .68rem;
+  position: absolute;
+  top: 50%; }
+
+.btnLeft {
+  left: 30px; }
+
+.btnRight {
+  right: 30px; }
+
+.inputPart {
+  background: #e5e2e2;
+  padding: 40px; }
+  .inputPart .inputClass {
+    padding: 0 .625em; }
+
+.textEntr {
+  text-align: center;
+  margin-left: 24%;
+  margin-top: 90px; }
+  .textEntr .placePart {
+    font-size: initial;
+    font-family: "Barlow Semi Condensed"; }
+  .textEntr .enjoyPart {
+    font-weight: 800;
+    text-decoration: none;
+    position: relative;
+    margin-left: .08em;
+    margin-right: .08em;
+    display: inline-block; }
+    .textEntr .enjoyPart b {
+      font-weight: 800;
+      color: inherit;
+      position: relative;
+      z-index: 1;
+      font-size: 2em; }
+  .textEntr p {
+    margin-top: 0;
+    margin-bottom: 0rem; }
+
+.imgNeth {
+  background-image: url(../photo1/1.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.imgReyk {
+  background-image: url(../photo1/2.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.imgAth {
+  background-image: url(../photo1/3.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.imgPuer {
+  background-image: url(../photo1/4.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.imgKy {
+  background-image: url(../photo1/5.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.imgMum {
+  background-image: url(../photo1/6.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.imgMos {
+  background-image: url(../photo1/7.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.imgIst {
+  background-image: url(../photo1/8.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.bcImgs {
+  position: relative;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 0px 20px;
+  padding: 0px 10px; }
+  .bcImgs h3 {
+    color: white;
+    text-align: center;
+    margin-top: 32%; }
+
+/*# sourceMappingURL=style.css.map */
